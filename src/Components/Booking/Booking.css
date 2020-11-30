@@ -1,0 +1,38 @@
+.booking-details{
+    background-image: url('../../images/Image/Rectangle11.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.booking-container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.booking-details-content h1 {
+    font-size: 60px;
+    text-transform: uppercase;
+    font-family: revert;
+    letter-spacing: 2px;
+    font-weight: 600;
+}
+.booking-details-content p {
+    font-size: 17px;
+    font-family: monospace;
+    text-align: justify;
+}
+.booking-field {
+    width: 300px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+}
+.booking-field input.form-control {
+    background-color: #efefef;
+    border: none;
+}
+.booking-field label{
+    font-size: 14px;
+}

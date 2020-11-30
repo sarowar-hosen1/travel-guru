@@ -1,0 +1,37 @@
+.swiperSlide img{
+    width: 100%;
+}
+.travel-places{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+}
+.swiperSlide{
+    position: relative;
+}
+.swiperSlide h3{
+    position: absolute;
+    bottom: 5%;
+    left: 50%;
+    transform: translate(-50%,-5%);
+    color: white;
+    font-size: 22px;
+}
+.booking-btn.btn {
+    padding: 8px 25px;
+    border: none;
+    border-radius: 10px;
+    background-color: orange;
+}
+.location-title{
+    font-size: 36px;
+    font-weight: 700;
+    letter-spacing: 3px;
+    font-family: 'Kanit', sans-serif;
+}
+.location-desc{
+    font-family: 'Lato', sans-serif;
+
+}

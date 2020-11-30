@@ -1,0 +1,9 @@
+.hotel-details-content p {
+    line-height: 6px;
+    font-size: 15px;
+    color: #565656;
+}
+.review-star{
+    width: 20px;
+    margin-right: 10px;
+}

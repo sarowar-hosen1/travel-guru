@@ -1,0 +1,45 @@
+.create-account{
+    width: 30%;
+    margin: auto;
+    border: 1px solid #f3eeee;
+    padding: 20px;
+    margin-top: 20px;
+}
+.create-account h3 {
+    font-size: 22px;
+    font-weight: 700;
+    font-family: revert;
+}
+
+.create-account input.form-control {
+    padding: 10px;
+    margin-bottom: 15px;
+    border: none;
+    border-bottom: 1px solid gray;
+    outline: none;
+}
+.create-account input[type="submit"] {
+    background: #ffbb3e;
+    border: none;
+    padding: 8px 25px;
+    width: 100%;
+    margin-top: 15px;
+}
+.login button{
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 25px;
+    padding: 10px 20px;
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+    width: 25%;
+}
+.login button:focus{
+    outline: none;
+}
+.login button i {
+    color: #0a4b90;
+    float: left;
+    font-size: 24px;
+}

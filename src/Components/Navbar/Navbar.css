@@ -1,0 +1,22 @@
+.navbar{
+    background-color: black;
+}
+.navbar img{
+    width: 150px;
+}
+.nav-item{
+    padding: 0px 10px;
+    font-size: 16px;
+    font-weight: 500;
+}
+.nav-item a{
+    color: white;
+}
+li.nav-item.login {
+    background: orange;
+    border-radius: 15px;
+    color: black;
+}
+.nav-link:hover{
+    color: rgb(241, 239, 239);
+}
